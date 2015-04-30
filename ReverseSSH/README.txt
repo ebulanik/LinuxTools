@@ -1,6 +1,6 @@
 # Introduce Pi to VM
-cd ~/.ssh<br />
-ssh-keygen -t rsa<br />
+cd ~/.ssh
+ssh-keygen -t rsa
 scp id_rsa.pub engblnk@uekk8b7dcd3b.engblnk.koding.io:.ssh/authorized_keys
 
 # Add to schedular
